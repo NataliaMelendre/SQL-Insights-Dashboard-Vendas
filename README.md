@@ -9,9 +9,10 @@ Este projeto foi desenvolvido com **PostgreSQL (pgAdmin4)**, aplicando consultas
 
 Os resultados foram visualizados em um **dashboard interativo no Excel**, que consolida indicadores de desempenho e facilita a tomada de decisão.
 
-<img width="1162" height="610" alt="image" src="https://github.com/user-attachments/assets/d722f1d3-bebb-44da-8982-4ec56e2ff16e" />,
+<img width="1162" height="610" alt="image" src="https://github.com/user-attachments/assets/d722f1d3-bebb-44da-8982-4ec56e2ff16e" />
 
 📄 [Abrir o arquivo de Queries](data/query-completa.sql)
+
 📊 [Ver o Dashboard em Excel](Dashboard_Vendas.xlsx)
 
 ---
