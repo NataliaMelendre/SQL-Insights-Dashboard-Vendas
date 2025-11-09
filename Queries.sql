@@ -103,3 +103,4 @@ from sales.funnel
 where paid_date between '2021-08-01' and '2021-08-31'
 group by dia_semana
 order by dia_semana
+
