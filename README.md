@@ -63,7 +63,7 @@ Os resultados foram visualizados em um **dashboard interativo no Excel**, que co
 
 ---
 
-### 📊 4. Tecologias Utilicadas
+### 📊 4. Tecnologias Utilizadas
 
 | Ferramenta                | Finalidade                            |
 | ------------------------- | ------------------------------------- |
